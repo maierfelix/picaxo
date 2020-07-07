@@ -24,7 +24,7 @@
     "node": ">= 6.x"
   },
   "devDependencies": {
-    "ws": "^2.3.1",
+    "ws": "^7.3.1",
     "electron": "^1.6.6",
     "rollup": "^0.41.6",
     "rollup-plugin-buble": "^0.15.0"
